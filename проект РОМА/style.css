@@ -1,0 +1,382 @@
+@font-face {
+    font-family: poppins;
+    src: url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    max-width: 100%;
+    background-image: url('./img/Slider.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+height: 1000px;
+}
+
+.nav{
+display: flex;
+padding-top: 30px;
+
+}
+
+.img__one{
+padding-left: 95px;
+}
+
+.img__two{
+    padding-left: 1195px;
+
+}
+
+.telo{
+    padding-left: 95px;
+    padding-top: 230px;
+}
+
+.place__one{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.h__one{
+
+    padding-top: 40px;
+
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.p__two{
+    padding-top: 20px;
+
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+
+}
+.p__three{
+    padding-top: 15px;
+    color: rgb(255, 215, 35);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.polo{
+    padding-top: 244px;
+    padding-left: 165px;
+}
+
+.mnb{
+    color: rgba(77, 83, 60, 0.9);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.big{
+    color: rgb(77, 83, 60);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.lop{
+    color: rgba(33, 56, 66, 0.6);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;                                                                                                                           
+}
+
+
+
+.section__one{
+    display: flex;
+}
+
+.lopo{
+    padding-left: 200px;
+    padding-top: 244px;
+}
+
+.name{
+    display: flex;
+}
+
+.zxc{
+    color: rgb(77, 83, 60);
+font-style: italic;
+font-size: 24px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.asd{
+    padding-top: 34px;
+    color: rgb(77, 83, 60);
+font-size: 22px;
+font-weight: 700;
+}
+
+.section__two{
+
+}
+
+
+.dsa{
+    display: flex;
+}
+.vbc{
+    color: rgb(77, 83, 60);
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.ilp{
+    color: rgba(33, 56, 66, 0.6);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+padding-left: 133px;
+
+}
+
+.dsa{
+    padding-left: 165px;
+    padding-top: 151px; 
+}
+
+.w{
+    display: flex;
+    padding-top: 151px; 
+}
+
+.qwe{
+    padding-left: 165px;
+    padding-top: 151px; 
+
+}
+
+.vfg{
+    color: rgb(77, 83, 60);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.o{
+    color: rgba(33, 56, 66, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.imd{
+    padding-left: 265px;
+
+}
+
+.section__five{
+
+}
+
+.p{
+    padding-left: 165px;
+    padding-top: 335px; 
+
+    color: rgb(77, 83, 60);
+font-size: 36px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.uv{
+display: flex;
+padding-top: 87px;
+padding-left: 195px;
+gap: 215px;
+}
+
+.f{
+
+}
+.h6{
+    
+    color: rgb(77, 83, 60);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.l{
+    color: rgba(33, 56, 66, 0.6);
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.g{
+    display: flex;
+    padding-top: 67px;
+padding-left: 195px;
+display: flex;
+gap:300px ;   
+}
+.m{
+    color: rgb(255, 215, 35);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: underline;
+    padding-left: 65px;
+}
+.b{
+    color: rgb(212, 214, 212);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: underline;
+  
+}
+.z{
+    color: rgb(77, 83, 60);
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-top: 256px;
+    padding-left: 164px;
+}
+.q{
+    padding-left: 164px;
+padding-top: 56px;
+    color: rgb(212, 214, 212);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: underline;
+    display: flex;
+}
+
+
+.footer{
+    margin-top: 100px;
+width: 100%;
+
+background-color: rgb(79, 85, 61);
+}
+.c{
+    padding-left: 165px;
+    padding-top: 210px;
+    gap: 100px;
+    color: rgb(182, 193, 151);
+font-size: 16px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: left;
+}
+.x{
+    padding-left: 165px;
+}
+
+.div__mn{
+    padding-left: 165px;
+    padding-top: 210px;
+    gap: 250px;
+    display: flex;
+}
+
+.help{
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+.tre{
+    display: flex;
+    padding-top: 21px;
+    padding-left:165px ;
+    gap: 250px;
+
+}
+
+.foot__li{
+    color: rgb(182, 193, 151);
+font-size: 16px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.bcxz{
+    color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.img__two{
+    color: rgb(181, 192, 150);
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: left;
+}
